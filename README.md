@@ -1,2 +1,2 @@
-# AbdulrahmanAlfaouriProtfolio.github.io
- A simple website With JQuerry and AJAX
+# AbdulrahmanAlfaouri.github.io
+ a simple website
